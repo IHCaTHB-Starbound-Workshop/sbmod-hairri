@@ -1,20 +1,11 @@
 {
   "author" : "isaac as THE HONEY BADGER",
-  "description" : "^#5aa9d6;Vanilla races now all have access to glitch hairstyles.^reset;
-
-Applies to npcs as well. Art entirely from vanilla assets.
-
-apex - black
-avian - matches talons
-floran - matches flowers
-human - matches undies
-hylotl - black
-novakid - bronze
-
-For more, click the MEGATHREAD link from the steam page.",
+  "description" : "^#5aa9d6;Vanilla races now all have access to glitch hairstyles.^reset;\n\nApplies to npcs as well. Art entirely from vanilla assets.\n\napex - black\navian - matches talons\nfloran - matches flowers\nhuman - matches undies\nhylotl - black\nnovakid - bronze\n\nFor more, click the MEGATHREAD link from the steam page.",
   "friendlyName" : "Robotic Implants",
   "includes" : ["HAIRLOL.IHC"],
+  "link" : "steam://url/CommunityFilePage/802930568",
   "name" : "HAIRRI.IHC",
   "requires" : [],
+  "steamContentId" : "802930568",
   "version" : "0.1"
 }
